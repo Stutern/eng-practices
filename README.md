@@ -23,7 +23,7 @@ we clarify here for external readers:
     Other organizations often call this a "change" or a "patch."
 *   **LGTM**: Means "Looks Good to Me." It is what a code reviewer says when
     approving a CL.
-
+*   **Weldone**: It is what a code reviewer says when approving a PR.
 ## License
 
 The documents in this project are licensed under the CC-By 3.0 License, which
