@@ -24,6 +24,8 @@ we clarify here for external readers:
 *   **LGTM**: Means "Looks Good to Me." It is what a code reviewer says when
     approving a CL.
 
+    Git PUSH: The git push command is used to upload local repository content to a remote repository. Pushing is how you transfer commits from your local repository to a remote repo.
+
 ## License
 
 The documents in this project are licensed under the CC-By 3.0 License, which
