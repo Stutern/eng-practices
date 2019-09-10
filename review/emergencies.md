@@ -1,10 +1,7 @@
 # Emergencies
 
 Sometimes there are emergency CLs that must pass through the entire code review
-process as quickly as
-possible.
-
-
+process as quickly as possible.
 
 ## What Is An Emergency? {#what}
 
@@ -12,11 +9,11 @@ An emergency CL would be a **small** change that: allows a major launch to
 continue instead of rolling back, fixes a bug significantly affecting users in
 production, handles a pressing legal issue, closes a major security hole, etc.
 
-In emergencies we really do care about the speed of the entire code review
+In emergencies, we really do care about the speed of the entire code review
 process, not just the [speed of response](reviewer/speed.md). In this case
 *only*, the reviewer should care more about the speed of the review and the
 correctness of the code (does it actually resolve the emergency?) than anything
-else. Also (perhaps obviously) such reviews should take priority over all other
+else. Also (perhaps obviously), such reviews should take priority over all other
 code reviews, when they come up.
 
 However, after the emergency is resolved you should look over the emergency CLs
