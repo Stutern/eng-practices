@@ -1,8 +1,8 @@
 # Emergencies
 
-Sometimes there are emergency CLs that must pass through the entire code review
+*Sometimes there are emergency CLs that must pass through the entire code review
 process as quickly as
-possible.
+possible.*
 
 
 
