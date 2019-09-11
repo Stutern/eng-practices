@@ -1,0 +1,6 @@
+**Refactoring Steps**
+
+1. Name variables and functions well.
+2. Remove magic numbers.
+3. Extract each step of logic into a function.
+4. Remove duplicate code.
