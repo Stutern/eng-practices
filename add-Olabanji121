@@ -1,4 +1,4 @@
-Refactoring Steps
+**Refactoring Steps**
 
 1. Name variables and functions well.
 2. Remove magic numbers.
