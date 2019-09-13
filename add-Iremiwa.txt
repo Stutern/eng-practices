@@ -1,4 +1,4 @@
-This is my contribution to the google engineering practices documentation
+Creating a Pull Request
 
 Draft pull requests are available in public repositories with GitHub Free, GitHub Pro,
  and legacy per-repository billing plans, and in public and private repositories with GitHub Team 
@@ -8,4 +8,4 @@ When you create a pull request, you can choose to create a pull request that is 
 review or a draft pull request. Draft pull requests cannot be merged, and code owners are 
 not automatically requested to review draft pull requests. For more information about 
 creating a draft pull request, 
-see "Creating a pull request" and "Creating a pull request from a fork."
+see "Creating a pull request(https://help.github.com/en/articles/creating-a-pull-request)" and "Creating a pull request from a fork (https://help.github.com/en/articles/creating-a-pull-request-from-a-fork)."
